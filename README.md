@@ -1,6 +1,8 @@
 nth-match
 ====
 
+[![Build Status](https://secure.travis-ci.org/joshwnj/nth-match.png)](http://travis-ci.org/joshwnj/nth-match)
+
 Install
 ----
 
