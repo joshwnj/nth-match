@@ -1,0 +1,27 @@
+{
+  "name": "nth-match",
+  "version": "1.0.0",
+  "description": "Find the nth possible match of a regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshwnj/nth-match.git"
+  },
+  "keywords": [
+    "regex",
+    "nth",
+    "match"
+  ],
+  "author": "joshwnj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshwnj/nth-match/issues"
+  },
+  "homepage": "https://github.com/joshwnj/nth-match",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
